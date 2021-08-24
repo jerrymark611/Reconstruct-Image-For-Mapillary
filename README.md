@@ -1,4 +1,4 @@
-# Reconstruct-Image
+# Reconstruct-Image-For-Mapillary
 ## Introduction
 Picture taken using GoPro MAX can't be directly upload to Mapillary due to metadata (EXIF) issue
 <br>
