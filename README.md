@@ -1,8 +1,10 @@
 # Reconstruct-Image-For-Mapillary
 ## Introduction
-Picture taken using GoPro MAX can't be directly upload to Mapillary due to metadata (EXIF) issue
+Uploading pictures taken with GoPro MAX to Mapillary may has an issue due to metadata (EXIF) problem
 <br>
 We can solve this  by loading image and metadata separately and then save them into the save file using python
+
+<strong>Please note that you don't have to use this script unless your pictures can't be uploaded to Mapillary<strong>
 
 ## Prerequisites
 - Python 3
